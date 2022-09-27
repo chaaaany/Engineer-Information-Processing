@@ -1,5 +1,5 @@
 # Engineer-Information-Processing
-##정보처리기사 실기 시험 스터디
+## 정보처리기사 실기 시험 스터디
 
 ### 요점 정리
 | 과목명 | 단원명 |
